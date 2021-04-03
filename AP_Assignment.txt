@@ -1,0 +1,17 @@
+Advance Programming Assignment # 1
+Last Date: 4-Apr-2021
+
+Objectives:
+
+    ● Create a git repository.
+    ● Create a branch named as your roll number. e.g.(branch: p200403)
+    ● Add 2 files:
+        ○ An empty .gitignore file.
+        ○ A java program file. It should have any java program on any topic done in the
+        last few weeks. (Code should be your own and keep it simple)
+    ● Push the code to the remote repository.
+
+Submission:
+    ● Either send me your github repository link.
+    OR
+    ● Take snapshots of your git log.
